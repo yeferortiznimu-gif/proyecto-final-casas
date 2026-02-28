@@ -52,13 +52,13 @@ images/ → Imágenes de las casas y fondos
 
 Funcionalidades
 
-✔ Página principal con presentación del proyecto
-✔ Galería de casas con imágenes dinámicas
-✔ Fondo animado atractivo
-✔ Botones interactivos funcionales
-✔ Formulario de contacto para clientes
-✔ Diseño adaptable a celulares y tablets
-✔ Navegación fluida entre secciones
+Página principal con presentación del proyecto
+Galería de casas con imágenes dinámicas
+Fondo animado atractivo
+Botones interactivos funcionales
+Formulario de contacto para clientes
+Diseño adaptable a celulares y tablets
+Navegación fluida entre secciones
 
 Capturas de pantalla
 ![Inicio](inicio.png)
@@ -119,4 +119,5 @@ A diseñar páginas responsivas con  CSS
 A organizar un proyecto profesionalmente
 
 A usar GitHub para gestionar y publicar proyectos
+
 
