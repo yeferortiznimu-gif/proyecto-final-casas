@@ -1,11 +1,11 @@
-Información general
+#Información general
 
 Nombre del proyecto: Venta de Casas Modernas
 Estudiante: Yefer Ortiz Hinestroza
 Fecha: 28 Febrero 2026
 Curso: Desarrollo Web
 
-Descripción del proyecto
+##Descripción del proyecto
 
 Este proyecto consiste en una landing page interactiva para la venta de casas modernas, diseñada para promocionar propiedades de forma atractiva y profesional.
 
@@ -15,7 +15,7 @@ El objetivo principal del proyecto es simular una plataforma inmobiliaria básic
 
 El sitio permite mostrar propiedades con imágenes, descripciones y un formulario de contacto para posibles compradores.
 
-Problema que soluciona
+##Problema que soluciona
 
 Facilita la promoción de viviendas en internet de forma visual y accesible.
 Público objetivo
@@ -26,7 +26,7 @@ Inmobiliarias
 
 Agentes de bienes raíces
 
-Tecnologías utilizadas
+##Tecnologías utilizadas
 
 HTML
 
@@ -40,7 +40,7 @@ Git
 
 GitHub
 
-Descripción
+##Descripción
 
 index.html → Página principal del sitio
 
@@ -50,7 +50,7 @@ js/script.js → Interactividad y funciones dinámicas
 
 images/ → Imágenes de las casas y fondos
 
-Funcionalidades
+##Funcionalidades
 
 Página principal con presentación del proyecto
 Galería de casas con imágenes dinámicas
@@ -60,25 +60,25 @@ Formulario de contacto para clientes
 Diseño adaptable a celulares y tablets
 Navegación fluida entre secciones
 
-Capturas de pantalla
+##Capturas de pantalla
 ![Inicio](inicio.png)
 ![Galería]![alt text](galeria.png)
 ![Formulario]![alt text](formulario.png)
 
 
 
-¿Qué hace el proyecto?
+##¿Qué hace el proyecto?
 
 Mi proyecto es una landing page interactiva para la venta de casas modernas.
 Permite mostrar propiedades con imágenes, información básica y un formulario de contacto para que los usuarios interesados puedan comunicarse.
 
 Su objetivo es promocionar viviendas de forma visual, organizada y accesible.
 
-¿Cómo funciona?
+##¿Cómo funciona?
 
 El sitio muestra una página principal con la presentación del proyecto.
 
-El usuario puede:
+###El usuario puede:
 
 Ver las casas disponibles en la galería
 
@@ -90,7 +90,7 @@ Enviar sus datos mediante el formulario de contacto
 
 El diseño es responsivo, por lo que funciona en celulares, tablets y computadoras.
 
-Utilicé:
+##Utilicé:
 
 React + Vite para la estructura y rendimiento del sitio
 
@@ -102,7 +102,7 @@ HTML para la estructura base
 
 Git y GitHub para el control de versiones y publicación
 
-¿Qué fue lo más difícil?
+##¿Qué fue lo más difícil?
 
 Lo más difícil fue entender la estructura del proyecto en React y organizar correctamente los componentes.
 
@@ -110,7 +110,7 @@ También fue un reto adaptar el diseño para que se viera bien en diferentes dis
 y tambien al principio a subir el proyecto a Github, pero con la prasctica logre.
 
 
-Aprendí:
+##Aprendí:
 
 A crear interfaces modernas 
 
@@ -119,5 +119,5 @@ A diseñar páginas responsivas con  CSS
 A organizar un proyecto profesionalmente
 
 A usar GitHub para gestionar y publicar proyectos
-
-
+##pajina:
+Use the package manager [pajina](https://casa-viva.gt.tc/)) to install foobar.
