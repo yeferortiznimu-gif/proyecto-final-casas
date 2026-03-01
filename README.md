@@ -53,13 +53,13 @@ Facilita la promoción de viviendas en internet de forma visual y accesible.
 
 ## Tecnologías utilizadas
 
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
-- Git  
-- GitHub  
-
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![IA](https://img.shields.io/badge/AI-Tools-green)
 ---
 
 ## Descripción de archivos
@@ -155,4 +155,5 @@ https://casa-viva.gt.tc/
 [issues-url]: https://github.com/TU_USUARIO/TU_REPO/issues
 [license-shield]: https://img.shields.io/github/license/TU_USUARIO/TU_REPO.svg?style=for-the-badge
 [license-url]: https://github.com/TU_USUARIO/TU_REPO/blob/master/LICENSE.txt
+
 
